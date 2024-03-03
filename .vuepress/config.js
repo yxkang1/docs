@@ -4,7 +4,7 @@ moment.locale("zh-cn");
 
 
 module.exports = {
-  base:"/docs",
+  base:"/vuepress-starter/",
   title:"知识库",
   description:"第一次制作",
   plugins: [
