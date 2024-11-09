@@ -1,0 +1,5 @@
+<template><div><h3 id="_1、查看记录更新时间及节点" tabindex="-1"><a class="header-anchor" href="#_1、查看记录更新时间及节点"><span>1、查看记录更新时间及节点</span></a></h3>
+<div class="language-sql line-numbers-mode" data-highlighter="shiki" data-ext="sql" data-title="sql" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">select</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> * </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">from</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> BPMSysRecordModifies </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">where</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> DatasetKey </span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">'1310418'</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></div></template>
+
+
